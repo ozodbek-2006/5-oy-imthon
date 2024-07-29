@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "Inter-Regular";
+    src: url(../fonts/Inter-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "SFProText-Regular";
+    src: url(../fonts/SF-Pro-Text-Regular.otf    );
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "SFProText-Light";
+    src: url(../fonts/SF-Pro-Text-Light.otf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: "SFProText-Medium";
+    src: url(../fonts/SF-Pro-Text-Medium.otf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "SFProText-SemiBold";
+    src: url(../fonts/SF-Pro-Text-Semibold.otf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "SFProDisplay-Medium";
+    src: url(../fonts/SF-Pro-Display-Medium.otf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "SFProText-Bold";
+    src: url(../fonts/SF-Pro-Text-Bold.otf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "SFProDisplay-Regular";
+    src: url(../fonts/SF-Pro-Display-Regular.otf);
+    font-weight: 400;
+}
